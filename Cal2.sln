@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cal2", "Cal2\Cal2.csproj", "{B5A18FB6-7947-4159-BE0A-C8F7CF3BC402}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5A18FB6-7947-4159-BE0A-C8F7CF3BC402}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5A18FB6-7947-4159-BE0A-C8F7CF3BC402}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5A18FB6-7947-4159-BE0A-C8F7CF3BC402}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5A18FB6-7947-4159-BE0A-C8F7CF3BC402}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9359A1A4-0B53-40D4-B0E8-62F994ADA0F7}
+	EndGlobalSection
+EndGlobal
